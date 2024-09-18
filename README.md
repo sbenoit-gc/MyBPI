@@ -9,7 +9,7 @@ A github repository for the in class demonstration code.<br>
 - material, physics based rendered<br>
 - material, world aligned<br>
  
-WASD key stop navigate, F key to interact with doors, lift pad, lights, and gun<br>
+WASD keys to navigate, F key to interact with doors, lift pad, lights, and gun<br>
  
 ## Usage
 Clone, or download the zip, to a local directory. Open in Unreal Engine 5.4 or newer
